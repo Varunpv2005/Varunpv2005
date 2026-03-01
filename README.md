@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Developer Banner"/>
+  <img src="image.png" width="100%" alt="Developer Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Varun PV</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VarunPV&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Varunpv2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -23,20 +23,22 @@
 
 I focus on building **scalable software systems and intelligent applications** by combining strong **core computer science fundamentals** with modern technologies.
 
-My interests include:
+My work lies at the intersection of:
 
-- Software Development  
-- Full Stack Engineering  
-- Artificial Intelligence & Machine Learning  
-- Scalable System Design  
+• Software Development  
+• Full Stack Engineering  
+• Artificial Intelligence & Machine Learning  
+• Scalable System Design  
 
-Core foundations:
+I apply concepts from:
 
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
 - Database Management Systems  
 - Operating Systems  
 - Computer Networks  
+
+to build **real-world applications and intelligent platforms**.
 
 ---
 
@@ -46,18 +48,18 @@ Core foundations:
 
 Developing an intelligent platform that:
 
-- Analyzes **food demand patterns**
-- Uses **location-based data**
-- Optimizes **food allocation**
-- Reduces **food wastage**
+• analyzes **food demand patterns**  
+• uses **location-based data**  
+• optimizes **food allocation**  
+• reduces **food wastage**
 
-Goal: Build a scalable platform connecting **food donors, distribution centers, and communities in need.**
+Goal: Create a scalable platform connecting **food donors, distribution centers, and communities in need.**
 
 ---
 
 ## 🧠 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp"/>
@@ -85,10 +87,10 @@ Libraries:
 
 ## 🎯 Current Focus
 
-- Advanced **Data Structures & Algorithms**
-- **System Design Fundamentals**
-- **Machine Learning Applications**
-- Building **Production-Level Software**
+• Advanced **Data Structures & Algorithms**  
+• **System Design Fundamentals**  
+• **Machine Learning Applications**  
+• Building **Production-Level Software**
 
 ---
 
@@ -96,7 +98,7 @@ Libraries:
 
 <p align="center">
 
-<a href="https://github.com/VarunPV">
+<a href="https://github.com/Varunpv2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
