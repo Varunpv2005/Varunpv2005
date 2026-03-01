@@ -1,81 +1,89 @@
-# Varun PV
+<h1 align="center">Hi, I'm Varun PV</h1>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML</h3>
 
-Computer Science Engineering Student | Full Stack Developer | Machine Learning  
-Vidyavardhaka College of Engineering
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I’m a 3rd Year Computer Science Engineering student focused on building scalable software systems and intelligent applications.  
-My work combines strong computer science fundamentals with practical full stack and machine learning development.
+- 3rd Year CSE Student at Vidyavardhaka College of Engineering  
+- Focused on Software Development and Machine Learning  
+- Strong foundation in Data Structures, Algorithms, and System Design  
+- Building scalable full stack applications and intelligent systems  
 
-I approach problems with structured thinking, efficient algorithms, and clean system design.
-
----
-
-## Core Strengths
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Database Management Systems  
-- Operating Systems & Computer Networks  
-- Problem Solving & Algorithmic Thinking  
-- Machine Learning Fundamentals  
+Currently developing an **AI/ML-based Food Distribution Platform** that optimizes demand prediction and reduces food wastage.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-Java • Python • C++
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
 
-**Full Stack**  
-HTML • CSS • JavaScript • React • Node.js  
+### Full Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
 
-**AI / ML**  
-NumPy • Pandas • scikit-learn • TensorFlow / PyTorch  
+### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-**Databases**  
-MySQL • PostgreSQL • MongoDB  
-
-**Tools & Platforms**  
-Git • GitHub • Linux • Docker  
-
----
-
-## Current Project
-
-### AI/ML-Based Food Distribution Platform  
-Developing a system that analyzes demand patterns, location data, and availability to prioritize food distribution and reduce food waste using machine learning.
-
-Focus Areas:
-- Backend architecture  
-- Data-driven decision systems  
-- Scalable full stack implementation  
+### Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker" />
+</p>
 
 ---
 
-## What I’m Currently Improving
+## Core Areas
 
-- Advanced Data Structures & Algorithms  
-- System Design fundamentals  
-- Real-world full stack architecture  
-- Applied machine learning workflows  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS  
+- Operating Systems  
+- Computer Networks  
+- Machine Learning Fundamentals  
 
 ---
 
-## Career Focus
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus
+
+- Advanced DSA Practice  
+- Backend System Design  
+- Scalable Full Stack Architectures  
+- Applied Machine Learning  
+
+---
+
+## Career Direction
 
 Software Development Engineer  
-Full Stack Development  
-AI / Machine Learning Engineering  
+Full Stack Developer  
+AI / Machine Learning Engineer  
 
-Open to internships, technical collaborations, and opportunities to build impactful software systems.
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/varun-pv-808214310/
-Email:varunpv180705@gmail.com
+Open to internships, collaborations, and impactful software opportunities.
