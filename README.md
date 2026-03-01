@@ -1,5 +1,3 @@
-<!-- ================= HERO SECTION ================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Varun%20PV&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </p>
@@ -10,65 +8,43 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
 ## 👨‍💻 About Me
 
 I am a 3rd Year Computer Science Engineering student at **Vidyavardhaka College of Engineering** focused on building scalable software systems and intelligent applications.
 
-I work with strong foundations in:
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- DBMS, Operating Systems & Computer Networks  
-- Full Stack Development  
-- Applied Machine Learning  
-
-Currently developing an **AI/ML-based Food Distribution Platform** that optimizes demand prediction and reduces food wastage through intelligent data-driven systems.
+- 🧠 **Foundation:** Data Structures, OOPs, DBMS, and OS.
+- 💻 **Dev:** Full Stack Development & Scalable Backend Systems.
+- 🤖 **AI/ML:** Building predictive models with TensorFlow & PyTorch.
+- 🎯 **Goal:** Crafting efficient code that solves real-world inefficiencies.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 🌟 Featured Project
+### 🍱 AI-Food Distribution Platform
+*An intelligent system optimizing demand prediction to reduce food wastage.*
+- **Tech:** React, Node.js, TensorFlow, MongoDB.
+- [View Repository](YOUR_REPO_LINK) | [Live Demo](YOUR_DEMO_LINK)
+
+---
 
 ## 🚀 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,mysql,postgres,mongodb,tensorflow,pytorch,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,mysql,postgres,mongodb,tensorflow,pytorch,git,linux,docker,aws,postman" />
 </p>
 
 ---
 
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Analytics
+## 📊 Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varunpv2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunpv2005&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpv2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varunpv2005&theme=tokyo-night&hide_border=true"/>
-</p>
+> **LeetCode Stats:** (Optional: Add your LeetCode profile badge here to show DSA progress)
 
 ---
-
-<!-- ================= CURRENT FOCUS ================= -->
-
-## 🎯 Current Focus (2026)
-
-- Advanced Data Structures & Competitive Problem Solving  
-- Backend System Architecture  
-- Scalable Full Stack Applications  
-- Real-World Machine Learning Implementation  
-
----
-
-<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
 
@@ -77,13 +53,9 @@ Currently developing an **AI/ML-based Food Distribution Platform** that optimize
     <img src="https://img.shields.io/badge/LinkedIn-Varun%20PV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:varunpv180705@gmail.com">
-    <img src="https://img.shields.io/badge/Email-varunpv180705%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
