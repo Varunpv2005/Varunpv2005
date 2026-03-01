@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Varun%20PV&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Varun%20pv2005&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
