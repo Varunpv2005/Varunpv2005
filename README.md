@@ -1,68 +1,154 @@
+<h1 align="center">Hi 👋, I'm Varun PV</h1>
+
+<h3 align="center">Computer Science Engineer | Software Developer | AI/ML Enthusiast</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=VARUN%20PV&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+Passionate about building scalable software and intelligent systems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Engineering+%40+VVCE;Full+Stack+Software+Engineer;Machine+Learning+Researcher;Building+Scalable+AI+Solutions" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%202026-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Varunpv2005?label=Followers&style=for-the-badge&color=00E6FF" />
+<img src="https://komarev.com/ghpvc/?username=VarunPV&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 🔭 Professional Overview
+# 👨‍💻 About Me
 
-I am a **3rd Year CSE Student** at **Vidyavardhaka College of Engineering**, specializing in high-performance software systems and AI integration. My goal is to bridge the gap between complex ML models and seamless user experiences.
+🎓 3rd Year **Computer Science Engineering Student**  
+🏫 Vidyavardhaka College of Engineering  
 
-- 🛠️ **Current Focus:** Architecting an **AI-Driven Food Distribution Engine** to minimize global wastage.
-- ⚡ **Technical Depth:** Expert in Java/C++ for DSA and the MERN stack for scalable web apps.
-- 🎓 **Academics:** Strong foundation in Operating Systems, DBMS, and Computer Networks.
-- 💬 **Collaborations:** Always looking to contribute to Open Source and Enterprise-level projects.
+I focus on building **scalable software systems and intelligent applications** by combining strong **core computer science fundamentals** with modern development technologies.
 
----
+My work lies at the intersection of:
 
-## 🚀 Technical Arsenal
+• Software Development  
+• Full Stack Engineering  
+• Artificial Intelligence & Machine Learning  
+• Scalable System Design  
 
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,nodejs,express,tensorflow,pytorch" />
-</p>
+I apply strong **Computer Science fundamentals** including:
 
-### 🗄️ Databases & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,linux,aws,postman" />
-</p>
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Database Management Systems  
+- Operating Systems  
+- Computer Networks  
 
----
-
-## 📊 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varunpv2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunpv2005&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpv2005&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varunpv2005&theme=tokyo-night&hide_border=true" width="50%"/>
-</p>
+to build **real-world solutions and intelligent platforms.**
 
 ---
 
-## 🌐 Connect & Network
+# 🚀 Current Project
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varun-pv-808214310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:varunpv180705@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+## AI/ML Food Distribution Platform
+
+Currently developing an intelligent system that:
+
+• analyzes **food demand patterns**  
+• uses **location-based data**  
+• optimizes **food allocation**  
+• reduces **food wastage**
+
+Goal:  
+Create a scalable platform that connects **food donors, distribution centers, and communities in need.**
+
+---
+
+# 🧠 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp"/>
 </p>
 
+---
+
+## Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css"/>
+</p>
+
+---
+
+## Machine Learning & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+Libraries:
+
+- NumPy  
+- Pandas  
+- Scikit-learn  
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=VarunPV&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPV&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=VarunPV&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunPV&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+• Advanced **Data Structures & Algorithms**  
+• **System Design Fundamentals**  
+• **Machine Learning Applications**  
+• Building **Production-Level Projects**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/VarunPV">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Developer Philosophy
+
+> Build software that is **reliable, scalable, and solves real-world problems.**
+
+---
+
+<p align="center">
+⭐ From <b>Varun PV</b>
 </p>
