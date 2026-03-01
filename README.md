@@ -1,48 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Varun PV&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=220&section=header&text=Varun%20PV&fontSize=85&animation=fadeIn&subText=Software%20Engineer%20%7C%20AI%20Systems&subTextDistance=50" width="100%" />
   
-  <h3>🚀 3rd Year Computer Science Engineer @ VVCE</h3>
-  <p><i>Building Scalable Full-Stack Solutions & Predictive ML Systems</i></p>
-
   <p align="center">
-    <a href="https://www.linkedin.com/in/varun-pv-808214310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:varunpv180705@vce.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    
+    <a href="https://linkedin.com/in/varun-pva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:varun.pva@vce.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 📋 Executive Summary
-I am a Software Development Engineer (SDE) focused on the intersection of **High-Performance Backends** and **Machine Learning**. My work prioritizes clean architecture, the SOLID principles, and data-driven optimization.
+### 📋 Engineering Profile
+I am a **3rd Year Computer Science Engineering student** at **Vidyavardhaka College of Engineering**. I engineer at the intersection of robust backend architectures and intelligent systems, focusing on solving real-world scarcity and distribution problems.
 
-- 🔭 **Currently:** Architecting **Smart-Allo**, an AI-driven logistics engine.
-- ⚡ **Core Strengths:** Distributed Systems, RESTful API Design, Predictive Modeling.
-- 🎓 **Academics:** Strengthening foundations in Operating Systems, DBMS, and Advanced DSA.
+- 🔭 **Current Focus:** Scaling **Smart-Allo**, a platform for intelligent food resource allocation.
+- ⚡ **Specialization:** Full-Stack Development (MERN), High-Performance Logic (Java/C++), and Machine Learning (PyTorch/TensorFlow).
+- 🎓 **Academic Core:** Advanced Data Structures, OS Internals, DBMS, and Computer Networks.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| Layer | Tools & Technologies |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | `Java` (System Logic), `Python` (ML/Data), `C++` (Competitive), `JavaScript/TS` |
-| **Full-Stack** | `React.js`, `Node.js`, `Express.js`, `TailwindCSS`, `HTML5/CSS3` |
-| **Data Science** | `TensorFlow`, `PyTorch`, `Scikit-Learn`, `NumPy`, `Pandas` |
-| **Infrastructure** | `PostgreSQL`, `MongoDB`, `Redis`, `Docker`, `Git`, `Linux (Bash)` |
+| **Languages** | `Java` • `Python` • `C++` • `JavaScript (ES6+)` |
+| **Frontend** | `React.js` • `Tailwind CSS` • `Framer Motion` • `HTML5/CSS3` |
+| **Backend & DB** | `Node.js` • `Express.js` • `PostgreSQL` • `MongoDB` • `Redis` |
+| **AI/ML** | `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Pandas` • `NumPy` |
+| **Infrastructure** | `Git` • `Docker` • `Postman` • `Linux (Ubuntu)` |
 
 ---
 
-### 🏗️ Deep Dive: Smart-Allo (AI/ML Food Distribution)
-*A full-stack solution to minimize resource waste using spatial-temporal demand analysis.*
-
-
+### 🏗️ Featured Engineering: Smart-Allo (AI-ML Logistics)
+*An intelligent food distribution platform designed to optimize allocation and reduce waste.*
 
 ```mermaid
-graph TD
-    A[React Dashboard] -->|Axios/WS| B(Node.js API Gateway)
-    B --> C{Load Balancer}
-    C --> D[Allocation Microservice]
-    C --> E[Inference Engine - Python]
-    E --> F[(PostgreSQL)]
-    D --> G[(Redis Cache)]
-    E -->|Predictive Data| D
+graph LR
+    A[React Client] --> B(Node.js Gateway)
+    B --> C{ML Inference Engine}
+    C --> D[(PostgreSQL)]
+    C --> E[PyTorch Model]
+    E -->|Demand Forecast| B
+    B --> F[Real-time Map/Socket]
