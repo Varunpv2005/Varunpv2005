@@ -1,44 +1,91 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=220&section=header&text=Varun%20PV&fontSize=85&animation=fadeIn&subText=Software%20Engineer%20%7C%20AI%20Systems&subTextDistance=50" width="100%" />
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/varun-pva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:varun.pva@vce.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </p>
-</div>
+<!-- Premium Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Varun%20PV&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Focused;Future+Software+Development+Engineer"/>
+</p>
 
 ---
 
-### 📋 Engineering Profile
-I am a **3rd Year Computer Science Engineering student** at **Vidyavardhaka College of Engineering**. I engineer at the intersection of robust backend architectures and intelligent systems, focusing on solving real-world scarcity and distribution problems.
+## About Me
 
-- 🔭 **Current Focus:** Scaling **Smart-Allo**, a platform for intelligent food resource allocation.
-- ⚡ **Specialization:** Full-Stack Development (MERN), High-Performance Logic (Java/C++), and Machine Learning (PyTorch/TensorFlow).
-- 🎓 **Academic Core:** Advanced Data Structures, OS Internals, DBMS, and Computer Networks.
+I am a 3rd Year Computer Science Engineering student at **Vidyavardhaka College of Engineering** focused on building scalable software systems and intelligent applications.
 
----
+My foundation is built on **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**, with hands-on development in **Full Stack Engineering and Machine Learning**.
 
-### 🛠️ Technical Ecosystem
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` • `Python` • `C++` • `JavaScript (ES6+)` |
-| **Frontend** | `React.js` • `Tailwind CSS` • `Framer Motion` • `HTML5/CSS3` |
-| **Backend & DB** | `Node.js` • `Express.js` • `PostgreSQL` • `MongoDB` • `Redis` |
-| **AI/ML** | `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Pandas` • `NumPy` |
-| **Infrastructure** | `Git` • `Docker` • `Postman` • `Linux (Ubuntu)` |
+Currently developing an **AI/ML-based Food Distribution Platform** that analyzes demand patterns and optimizes resource allocation to reduce food wastage.
 
 ---
 
-### 🏗️ Featured Engineering: Smart-Allo (AI-ML Logistics)
-*An intelligent food distribution platform designed to optimize allocation and reduce waste.*
+## Tech Stack
 
-```mermaid
-graph LR
-    A[React Client] --> B(Node.js Gateway)
-    B --> C{ML Inference Engine}
-    C --> D[(PostgreSQL)]
-    C --> E[PyTorch Model]
-    E -->|Demand Forecast| B
-    B --> F[Real-time Map/Socket]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,mysql,postgres,mongodb,tensorflow,pytorch,git,linux,docker" />
+</p>
+
+---
+
+## Core Engineering Focus
+
+- Scalable Backend Architecture  
+- Efficient Algorithm Design  
+- Full Stack System Development  
+- Applied Machine Learning Workflows  
+- Clean, Maintainable Code  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus (2026)
+
+- Advanced Data Structures & Problem Solving  
+- Backend System Design  
+- Production-Ready Full Stack Applications  
+- Real-World Machine Learning Implementation  
+
+---
+
+## Career Direction
+
+Software Development Engineer  
+Full Stack Developer  
+AI / Machine Learning Engineer  
+
+Open to internships, impactful projects, and engineering collaborations.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-pv-808214310/">
+    <img src="https://img.shields.io/badge/LinkedIn-Varun%20PV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:varunpv180705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-varunpv180705%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Premium Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,12,20,24"/>
+</p>
