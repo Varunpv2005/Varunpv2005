@@ -1,32 +1,36 @@
-<h1 align="center">Hi 👋, I'm Varun PV</h1>
+<!-- Top Banner -->
+<p align="center">
+  <img src="banner.png" width="100%" alt="Developer Banner"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Varun PV</h1>
 <h3 align="center">Computer Science Engineer | Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable software and intelligent systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Software+Developer;Full+Stack+Developer;AI%2FML+Engineer;Building+Scalable+Systems"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VarunPV&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=VarunPV&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 3rd Year **Computer Science Engineering Student**  
 🏫 Vidyavardhaka College of Engineering  
 
-I focus on building **scalable software systems and intelligent applications** by combining strong **core computer science fundamentals** with modern development technologies.
+I focus on building **scalable software systems and intelligent applications** by combining strong **core computer science fundamentals** with modern technologies.
 
-My work lies at the intersection of:
+My interests include:
 
-• Software Development  
-• Full Stack Engineering  
-• Artificial Intelligence & Machine Learning  
-• Scalable System Design  
+- Software Development  
+- Full Stack Engineering  
+- Artificial Intelligence & Machine Learning  
+- Scalable System Design  
 
-I apply strong **Computer Science fundamentals** including:
+Core foundations:
 
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
@@ -34,47 +38,40 @@ I apply strong **Computer Science fundamentals** including:
 - Operating Systems  
 - Computer Networks  
 
-to build **real-world solutions and intelligent platforms.**
+---
+
+## 🚀 Current Project
+
+### AI/ML Food Distribution Platform
+
+Developing an intelligent platform that:
+
+- Analyzes **food demand patterns**
+- Uses **location-based data**
+- Optimizes **food allocation**
+- Reduces **food wastage**
+
+Goal: Build a scalable platform connecting **food donors, distribution centers, and communities in need.**
 
 ---
 
-# 🚀 Current Project
+## 🧠 Tech Stack
 
-## AI/ML Food Distribution Platform
+### Languages
 
-Currently developing an intelligent system that:
-
-• analyzes **food demand patterns**  
-• uses **location-based data**  
-• optimizes **food allocation**  
-• reduces **food wastage**
-
-Goal:  
-Create a scalable platform that connects **food donors, distribution centers, and communities in need.**
-
----
-
-# 🧠 Tech Stack
-
-## Programming Languages
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp"/>
 </p>
 
----
+### Web Development
 
-## Web Development
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css"/>
 </p>
 
----
+### Machine Learning
 
-## Machine Learning & Data
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
@@ -86,49 +83,21 @@ Libraries:
 
 ---
 
-# 📊 GitHub Statistics
+## 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VarunPV&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPV&layout=compact&theme=tokyonight"/>
-
-</p>
+- Advanced **Data Structures & Algorithms**
+- **System Design Fundamentals**
+- **Machine Learning Applications**
+- Building **Production-Level Software**
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=VarunPV&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunPV&theme=tokyo-night"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-• Advanced **Data Structures & Algorithms**  
-• **System Design Fundamentals**  
-• **Machine Learning Applications**  
-• Building **Production-Level Projects**
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/VarunPV">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/">
@@ -136,16 +105,10 @@ Libraries:
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
-
----
-
-# ⚡ Developer Philosophy
-
-> Build software that is **reliable, scalable, and solves real-world problems.**
 
 ---
 
