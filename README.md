@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Your%20Name&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Varun PV&fontSize=80&animation=fadeIn" width="100%" />
   
   <h3>🚀 3rd Year Computer Science Engineer @ VVCE</h3>
   <p><i>Building Scalable Full-Stack Solutions & Predictive ML Systems</i></p>
