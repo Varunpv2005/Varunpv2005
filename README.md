@@ -1,29 +1,34 @@
-<!-- HERO SECTION -->
+<!-- ================= HERO SECTION ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Varun%20pv2005&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Varun%20PV&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Builder;Future+Software+Development+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Builder;Future+Software+Development+Engineer" />
 </p>
 
 ---
+
+<!-- ================= ABOUT ================= -->
 
 ## 👨‍💻 About Me
 
-I’m a 3rd Year Computer Science Engineering student at **Vidyavardhaka College of Engineering** focused on designing scalable systems and intelligent applications.
+I am a 3rd Year Computer Science Engineering student at **Vidyavardhaka College of Engineering** focused on building scalable software systems and intelligent applications.
 
-I build solutions using strong foundations in:
+I work with strong foundations in:
 
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- DBMS, Operating Systems & Networks  
+- DBMS, Operating Systems & Computer Networks  
 - Full Stack Development  
 - Applied Machine Learning  
 
-Currently developing an **AI/ML-based Food Distribution Platform** to optimize demand prediction and reduce food wastage using data-driven decision systems.
+Currently developing an **AI/ML-based Food Distribution Platform** that optimizes demand prediction and reduces food wastage through intelligent data-driven systems.
 
 ---
+
+<!-- ================= TECH STACK ================= -->
 
 ## 🚀 Technology Stack
 
@@ -33,27 +38,37 @@ Currently developing an **AI/ML-based Food Distribution Platform** to optimize d
 
 ---
 
-## 📊 GitHub Performance
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varunpv2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunpv2005&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpv2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varunpv2005&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+<!-- ================= CURRENT FOCUS ================= -->
 
 ## 🎯 Current Focus (2026)
 
 - Advanced Data Structures & Competitive Problem Solving  
 - Backend System Architecture  
 - Scalable Full Stack Applications  
-- Real-world Machine Learning Systems  
+- Real-World Machine Learning Implementation  
 
 ---
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
 
@@ -66,7 +81,10 @@ Currently developing an **AI/ML-based Food Distribution Platform** to optimize d
   </a>
 </p>
 
-<!-- FOOTER -->
+---
+
+<!-- ================= FOOTER ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
 </p>
